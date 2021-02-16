@@ -1,1 +1,1 @@
-# NodeJSproject
+# Node.JS-project
